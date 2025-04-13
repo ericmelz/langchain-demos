@@ -5,6 +5,7 @@ langgraph
 tavily-python
 langchain-community
 langgraph-checkpoint-sqlite
+langchainhub
 langgraph
 pypdf
 jupyter

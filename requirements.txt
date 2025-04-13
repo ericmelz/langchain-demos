@@ -1,6 +1,10 @@
 dotenv
 langchain[openai]
+langchain-anthropic
+langgraph
+tavily-python
 langchain-community
+langgraph-checkpoint-sqlite
 langgraph
 pypdf
 jupyter
